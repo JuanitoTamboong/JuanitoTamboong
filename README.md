@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JuanitoTamboong
-- 👀 I’m interested in everything that relatied in tech
+- 👀 I’m interested in everything that related in tech
 - 🌱 I’m currently learning  Front-end Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
