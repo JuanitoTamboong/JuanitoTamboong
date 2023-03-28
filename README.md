@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Juanito Tamboong Jr.</h1>
 <h3 align="center">A passionate frontend developer from Romblon</h3>
 
- <img align="right" src="https://media3.giphy.com/media/HvekzBaREHxlEwvlOS/giphy.webp?cid=ecf05e4766bzzki98h3canos7mrd2b0tefkd5v4e1t66cchz&rid=giphy.webp&ct=s" width="200px" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanitotamboong&label=Profile%20views&color=0e75b6&style=flat" alt="juanitotamboong" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanitotamboong" alt="juanitotamboong" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/f_tamboong" target="blank"><img src="https://img.shields.io/twitter/follow/f_tamboong?logo=twitter&style=for-the-badge" alt="f_tamboong" /></a> </p>
-
+ <img align="right" src="https://media3.giphy.com/media/HvekzBaREHxlEwvlOS/giphy.webp?cid=ecf05e4766bzzki98h3canos7mrd2b0tefkd5v4e1t66cchz&rid=giphy.webp&ct=s" width="200px" alt="coding">
 - 🌱 I’m currently learning **Frameworks etc**
 
 - 👯 I’m looking to collaborate on **my Project**
