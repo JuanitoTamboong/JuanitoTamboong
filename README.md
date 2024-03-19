@@ -1,4 +1,4 @@
-![logo](https://github.com/JuanitoTamboong/JuanitoTamboong/blob/main/juanito.gif)
+![logo](https://github.com/JuanitoTamboong/JuanitoTamboong/blob/main/wans.gif)
 <h1 align="center">Hi 👋, I'm Juanito Tamboong Jr.</h1>
 <h3 align="center">A passionate frontend developer from Romblon</h3>
 
