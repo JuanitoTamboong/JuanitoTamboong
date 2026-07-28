@@ -6,17 +6,17 @@
 
   <br/><br/>
 
-  <!-- Animated Typing Title -->
+  <!-- Animated Typing Title (Multi-color gradient look) -->
   <a href="https://github.com/JuanitoTamboong">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vcenter=true&width=600&lines=Hi+there!+I'm+Juanito+F.+Tamboong+Jr.+%F0%9F%90%8B;Full-Stack+Developer+%F0%9F%92%BB;Crafting+Digital+Experiences+%E2%9C%A8;Welcome+to+my+profile!+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF007F&center=true&vcenter=true&width=600&lines=Hi+there!+I'm+Juanito+F.+Tamboong+Jr.+%F0%9F%90%8B;Full-Stack+Developer+%F0%9F%92%BB;Crafting+Digital+Experiences+%E2%9C%A8;Welcome+to+my+profile!+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <p><b>Full-Stack Developer • Creative Technologist • Philippines 🇵🇭</b></p>
 
-  <!-- Social Badges -->
+  <!-- Social Badges (Gradient / Vivid Styles) -->
   <p align="center">
     <a href="https://www.linkedin.com/in/juanito-f-tamboong-jr-b4271a227/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://web.facebook.com/juanito.tamboong.000">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
@@ -77,12 +77,14 @@
 <!-- GitHub Analytics Section -->
 ## 📊 GitHub Contributions
 
+<!-- Rainbow Contribution Matrix (using multi-color hex gradient) -->
 <p align="center">
-  <img src="https://ghchart.rshah.org/00f0ff/JuanitoTamboong" width="100%" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/ff007f/JuanitoTamboong" width="100%" alt="Contribution Graph" />
 </p>
 
+<!-- Neon/Vivid Dynamic Activity Graph (Dracula vibrant multi-color theme) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanitoTamboong&theme=react-dark&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanitoTamboong&theme=dracula&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
@@ -92,6 +94,6 @@
 
   <br/>
   
-  <img src="https://komarev.com/ghpvc/?username=JuanitoTamboong&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=JuanitoTamboong&color=ff007f&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
