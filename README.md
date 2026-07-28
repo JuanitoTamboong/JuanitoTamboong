@@ -1,70 +1,82 @@
-<img src="https://github.com/JuanitoTamboong/JuanitoTamboong/blob/main/wans.gif" width="100%" alt="Wans Banner">
+<div align="center">
+
+  <!-- Banner -->
+  <img src="https://github.com/JuanitoTamboong/JuanitoTamboong/raw/main/wans.gif" width="100%" alt="Wans Banner" />
+
+  <br/><br/>
+
+  <!-- Header Typing / Title -->
+  <h1>Hi there, I'm <a href="https://github.com/JuanitoTamboong">Juanito F. Tamboong Jr.</a> 👋</h1>
+  <p><b>Full-Stack Developer • Tech Enthusiast • Problem Solver</b></p>
+
+  <!-- Social Badges -->
+  <a href="https://web.facebook.com/juanito.tamboong.000" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/itsmepapawans/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/juanito-f-tamboong-jr-b4271a227/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-Hi there! I'm **Juanito F. Tamboong Jr.** — a passionate developer from the Philippines who loves building creative and functional web applications. I'm constantly learning, experimenting, and sharing my journey through code.
+A passionate developer from the **Philippines** who loves turning complex problems into elegant, real-world web applications. 
 
-- 🔭 I’m currently working on **SoulVerse**
-- 🌱 I’m currently learning **Full-Stack Development**
-- 💬 Ask me about **JavaScript, Python, and Web Design**
-- ⚡ Fun fact: I enjoy turning ideas into real-world solutions
-
----
-
-## 🌐 Connect with Me
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/juanito.tamboong.000)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsmepapawans/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanito-f-tamboong-jr-b4271a227/)
+* 🔭 **Currently Building:** [SoulVerse](https://github.com/JuanitoTamboong)
+* 🌱 **Currently Learning:** Advanced Full-Stack Architecture & Cloud Technologies
+* 💬 **Let's Talk About:** JavaScript, Python, Web Design & UI/UX
+* ⚡ **Fun Fact:** I treat code like art — clean, functional, and meaningful.
 
 ---
 
 ## 💻 Tech Stack
 
+<div align="left">
+
 ### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 
-### ⚙️ Backend
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+### ⚙️ Backend & Database
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### 🚀 Deployment & Tools
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white" />
 
-### 🚀 Hosting & Deployment
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanitoTamboong&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JuanitoTamboong&theme=material-palenight&hide_border=true) |
-| :---: | :---: |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanitoTamboong&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact) | |
+</div>
 
 ---
 
-## 🏆 Top Contributed Repositories
+## 📊 GitHub Analytics
 
-![](https://github-contributor-stats.vercel.app/api?username=JuanitoTamboong&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
-## 👀 Profile Views
-
-[![](https://visitcount.itsvg.in/api?id=JuanitoTamboong&icon=7&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=JuanitoTamboong&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanitoTamboong&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-> *“Code is like poetry — it should be clean, elegant, and meaningful.”*
+<div align="center">
 
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+> *"Code is like poetry — it should be clean, elegant, and meaningful."*
+
+<br/>
+
+<!-- Profile Views -->
+<img src="https://visitcount.itsvg.in/api?id=JuanitoTamboong&icon=7&color=0" alt="views" />
+
+</div>
