@@ -6,7 +6,7 @@
   
   <br/><br/>
   
-  <!-- Typing SVG - FIXED (URL Encoded Emojis & Text) -->
+  <!-- Animated Typing SVG -->
   <a href="https://github.com/JuanitoTamboong">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7007F&center=true&vcenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;I+am+Juanito+F.+Tamboong+Jr.;Full-Stack+Developer+%F0%9F%92%BB;Creative+Technologist+%F0%9F%8E%A8;Welcome+to+my+world!+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
@@ -30,9 +30,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   
-  <br/>
+  <br/><br/>
   
-  <!-- Profile Views -->
+  <!-- Profile Views & Social Stats -->
   <img src="https://komarev.com/ghpvc/?username=JuanitoTamboong&color=ff69b4&style=flat-square&label=%F0%9F%90%8B+Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/JuanitoTamboong?label=Followers&style=social" alt="Followers" />
   <img src="https://img.shields.io/github/stars/JuanitoTamboong?label=Stars&style=social" alt="Stars" />
@@ -78,13 +78,13 @@
 <div align="center">
 
 ### 🎨 Frontend & Design
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,figma,canva" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,figma,canva" alt="Frontend" />
 
 ### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=python,php,java,nodejs,express,mysql,mongodb,postgres" />
+<img src="https://skillicons.dev/icons?i=python,php,java,nodejs,express,mysql,mongodb,postgres" alt="Backend" />
 
 ### 🚀 DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,aws,docker,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,aws,docker,linux" alt="Tools" />
 
 </div>
 
@@ -95,7 +95,7 @@
 
 <div align="center">
 
-  <!-- Stats Cards - FIXED (Using reliable Vercel API instance) -->
+  <!-- Stats Cards -->
   <p align="center">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JuanitoTamboong&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=ff007f&title_color=ff6b9d" alt="GitHub Stats" height="165" />
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JuanitoTamboong&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d" alt="Top Languages" height="165" />
@@ -131,8 +131,8 @@
         <h3>🎮 SoulVerse</h3>
         <p>An immersive web experience blending gaming and social interaction.</p>
         <p>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+          <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node" />
         </p>
         <a href="https://github.com/JuanitoTamboong">🔗 View Project</a>
       </td>
@@ -140,8 +140,8 @@
         <h3>💼 Portfolio</h3>
         <p>My personal portfolio showcasing creative projects and skills.</p>
         <p>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
         </p>
         <a href="https://github.com/JuanitoTamboong">🔗 View Project</a>
       </td>
@@ -149,8 +149,8 @@
         <h3>📱 Web App</h3>
         <p>Full-stack web application with modern UI/UX design.</p>
         <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
         </p>
         <a href="https://github.com/JuanitoTamboong">🔗 View Project</a>
       </td>
@@ -166,7 +166,7 @@
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=JuanitoTamboong&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JuanitoTamboong&theme=radical&no-frame=true&no-stat=false&margin-w=15" alt="GitHub Trophies" />
 
 </div>
 
@@ -178,13 +178,13 @@
 <div align="center">
   
   <a href="https://buymeacoffee.com/yourusername">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
   <a href="https://ko-fi.com/yourusername">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
   </a>
   <a href="https://patreon.com/yourusername">
-    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" />
   </a>
   
 </div>
@@ -196,11 +196,8 @@
 
 <div align="center">
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuanitoTamboong/JuanitoTamboong/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuanitoTamboong/JuanitoTamboong/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/JuanitoTamboong/JuanitoTamboong/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <!-- Dynamic Snake with Instant Fallback -->
+  <img src="https://svg-snake.vercel.app/api/snake?username=JuanitoTamboong&theme=dark" alt="GitHub Contribution Snake" width="100%" />
 
 </div>
 
@@ -212,9 +209,9 @@
   <br/>
   
   <p>
-    <img src="https://img.shields.io/badge/⭐-Made%20with%20Love-ff69b4?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/💻-Code%20with%20Passion-ff6b9d?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🚀-Build%20with%20Dreams-c084fc?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/⭐-Made%20with%20Love-ff69b4?style=for-the-badge" alt="Made with Love" />
+    <img src="https://img.shields.io/badge/💻-Code%20with%20Passion-ff6b9d?style=for-the-badge" alt="Code with Passion" />
+    <img src="https://img.shields.io/badge/🚀-Build%20with%20Dreams-c084fc?style=for-the-badge" alt="Build with Dreams" />
   </p>
 
   <p>
