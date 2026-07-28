@@ -33,7 +33,7 @@
   <br/><br/>
   
   <!-- Profile Views & Social Stats -->
-  <img src="https://komarev.com/ghpvc/?username=JuanitoTamboong&color=ff69b4&style=flat-square&label=%F0%9F%90%8B+Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=JuanitoTamboong&color=ff69b4&style=flat-square&label=%F0%9F%91%80+Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/JuanitoTamboong?label=Followers&style=social" alt="Followers" />
   <img src="https://img.shields.io/github/stars/JuanitoTamboong?label=Stars&style=social" alt="Stars" />
 
@@ -97,8 +97,8 @@
 
   <!-- Stats Cards -->
   <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JuanitoTamboong&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=ff007f&title_color=ff6b9d" alt="GitHub Stats" height="165" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JuanitoTamboong&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d" alt="Top Languages" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JuanitoTamboong&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=ff007f&title_color=ff6b9d" alt="GitHub Stats" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanitoTamboong&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d" alt="Top Languages" height="165" />
   </p>
 
   <!-- Contribution Graph -->
@@ -115,6 +115,30 @@
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanitoTamboong&theme=radical&hide_border=true&background=0d1117" width="60%" alt="Streak Stats" />
   </p>
+
+</div>
+
+---
+
+<!-- ==================== TROPHIES ==================== -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  <!-- FIXED: Working GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=JuanitoTamboong&theme=darkhub&no-frame=false&row=3&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
+
+</div>
+
+---
+
+<!-- ==================== CODING ACTIVITY ==================== -->
+## ⏱️ Coding Activity
+
+<div align="center">
+
+  <!-- FIXED: Working WakaTime Stats (if you have WakaTime setup) -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JuanitoTamboong&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&layout=compact&langs_count=6" width="60%" alt="WakaTime Stats" />
 
 </div>
 
@@ -161,17 +185,6 @@
 
 ---
 
-<!-- ==================== TROPHIES ==================== -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=JuanitoTamboong&theme=radical&no-frame=true&no-stat=false&margin-w=15" alt="GitHub Trophies" />
-
-</div>
-
----
-
 <!-- ==================== SUPPORT ==================== -->
 ## ☕ Support Me
 
@@ -196,8 +209,8 @@
 
 <div align="center">
   
-  <!-- Dynamic Snake with Instant Fallback -->
-  <img src="https://svg-snake.vercel.app/api/snake?username=JuanitoTamboong&theme=dark" alt="GitHub Contribution Snake" width="100%" />
+  <!-- FIXED: Working snake animation -->
+  <img src="https://github.com/JuanitoTamboong/JuanitoTamboong/blob/output/github-contribution-grid-snake-dark.svg?raw=true" width="100%" alt="Snake animation" />
 
 </div>
 
