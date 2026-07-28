@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Banner -->
-  <img src="https://github.com/JuanitoTamboong/JuanitoTamboong/raw/main/wans.gif" width="100%" alt="Wans Banner" />
+  <img src="https://raw.githubusercontent.com/JuanitoTamboong/JuanitoTamboong/main/wans.gif" width="100%" alt="Wans Banner" />
 
   <br/><br/>
 
-  <!-- Header Typing / Title -->
+  <!-- Header -->
   <h1>Hi there, I'm <a href="https://github.com/JuanitoTamboong">Juanito F. Tamboong Jr.</a> 👋</h1>
   <p><b>Full-Stack Developer • Tech Enthusiast • Problem Solver</b></p>
 
@@ -37,8 +37,6 @@ A passionate developer from the **Philippines** who loves turning complex proble
 
 ## 💻 Tech Stack
 
-<div align="left">
-
 ### 🎨 Frontend
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -57,16 +55,13 @@ A passionate developer from the **Philippines** who loves turning complex proble
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white" />
 
-</div>
-
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=JuanitoTamboong&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanitoTamboong&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img width="100%" src="https://ghchart.rshah.org/JuanitoTamboong" alt="Juanito's GitHub Contributions" />
+</div>
 
 ---
 
@@ -76,7 +71,7 @@ A passionate developer from the **Philippines** who loves turning complex proble
 
 <br/>
 
-<!-- Profile Views -->
-<img src="https://visitcount.itsvg.in/api?id=JuanitoTamboong&icon=7&color=0" alt="views" />
+<!-- Reliable Profile Counter -->
+<img src="https://komarev.com/ghpvc/?username=JuanitoTamboong&color=blueviolet&style=flat-square" alt="Profile Views" />
 
 </div>
